@@ -72,8 +72,6 @@ Snap Shots:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/126562c1-e627-4ddc-8fc2-45e7f3dbad01" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abfd7ff6-f011-4138-85c4-2ffa3ba1c0eb" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac7eb36e-c3a8-44d6-a4df-6189ffaab292" />
-## Result: 
-Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
 
 
 
